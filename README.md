@@ -16,3 +16,7 @@
 - умение использовать Docker в разработке - будет плюсом
 
 Приглашаем на фулл-тайм или частичную занятость от 10ч/неделю с почасовой оплатой.
+
+#### Пишите!
+- в Telegram: [@livinbelievin](https://t.me/livinbelievin)
+- на почту: [denis@maxma.com](mailto:denis@maxma.com)
