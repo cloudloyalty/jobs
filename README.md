@@ -1,4 +1,4 @@
-![MAXMA Logo](/maxma-logo.svg)
+![MAXMA Logo](//jobs.maxma.com/maxma-logo.svg)
 
 [MAXMA.com](https://maxma.com/) — это облачный сервис для автоматизации программ лояльности в розничных и онлайн-магазинах, ранее почти тем же составом мы делали CRM в Lamoda.ru. Среди наших клиентов FARШ (Новиков Групп), Paolo Conte, Alena Akhmadullina, Letique, Suprotec и еще 100+ довольных сетей ❤️. С каждым релизом мы делаем MAXMA современней, удобней, продуманней и полнее — и нам нужна помощь в этом!
 
