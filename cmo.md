@@ -1,10 +1,10 @@
-<img src="//jobs.maxma.com/MX_Logo_2023_L_2.svg" width="200" />
-
-[MAXMA](https://maxma.com/) (от Max Marketing) — это технологичный SaaS-продукт, гарантировано повышающий продажи на ~25%. Среди наших клиентов XIAOMI, NOVIKOV, Loreal, Alena Akhmadullina, Letique и еще 200+ довольных сетей. Ранее почти тем же составом делали CRM в Lamoda.ru
+<img src="//https://hhcdn.ru/ichameleon/273759.png" width="200" />
 
 # CMO | Директор по маркетингу (IT/SaaS для B2B)
 
 Привет! Меня зовут Лев Хурумов, я CEO в Maxma.com
+
+[MAXMA](https://maxma.com/) (от Max Marketing) — это технологичный SaaS-продукт, гарантировано повышающий продажи на ~25%. Среди наших клиентов XIAOMI, NOVIKOV, Loreal, Alena Akhmadullina, Letique и еще 200+ довольных сетей. Ранее почти тем же составом делали CRM в Lamoda.ru
 
 #### Основные цели:
 - Увеличить количество целевых лидов х3
