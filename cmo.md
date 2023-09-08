@@ -1,4 +1,4 @@
-<img src="//https://hhcdn.ru/ichameleon/273759.png" width="200" />
+<img src="//https://hhcdn.ru/ichameleon/273759.png" />
 
 # CMO | Директор по маркетингу (IT/SaaS для B2B)
 
@@ -40,3 +40,5 @@
 - по телефону: [+7 991 705-49-38](tel:+79917054938)
 - в Telegram: [@HR_MAXMA](https://t.me/HR_MAXMA)
 - на почту: [e.zaytsev@maxma.com](mailto:e.zaytsev@maxma.com)
+
+<img src="//https://hhcdn.ru/ichameleon/273589.png" />
