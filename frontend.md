@@ -1,4 +1,4 @@
-<img src="//jobs.maxma.com/MX_Logo_2023_L_2.svg" width="200" />
+<img src="http://jobs.maxma.com/MX_Logo_2023_L_2.svg" width="200" />
 
 [MAXMA.com](https://maxma.com/) — это платформа автоматизации маркетинга, ранее почти тем же составом мы делали CRM в Lamoda.ru. Среди наших клиентов CONSO, HASS, Rant, HappyBaby, PlayToday и еще 200+ довольных сетей ❤️.
 
@@ -33,3 +33,7 @@
 - по телефону: [+7 991 705-49-38](tel:+79917054938)
 - в Telegram: [@HR_MAXMA](https://t.me/HR_MAXMA)
 - на почту: [hr@maxma.com](mailto:hr@maxma.com)
+
+---
+
+<img src="https://jobs.maxma.com/273589.png" width="100%" />
