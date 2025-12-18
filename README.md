@@ -9,4 +9,4 @@
 #### В архиве:
 - [CMO / Директор по маркетингу (IT/SaaS для B2B)](cmo.md)
 
-<img src="https://jobs.maxma.com/273759" width="100%" />
+<img src="https://jobs.maxma.com/273759.png" width="100%" />
