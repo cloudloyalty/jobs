@@ -6,10 +6,10 @@
 [Наши актуальные вакансии на hh.ru](https://hh.ru/employer/3833409).
 
 #### Сейчас ищем: 
-- Аккаунт-менеджер/ Customer success manager
-- Менеджер по продажам в IT
-- Менеджер по развитию бизнеса / BDM 
-- SDR / Менеджер лидогенерации
+- [Аккаунт-менеджер/ Customer success manager](acct_manager.md)
+- [Менеджер по продажам в IT](sales_manager.md)
+- [Менеджер по развитию бизнеса / BDM](bdm.md)
+- [SDR / Менеджер лидогенерации](sdr.md)
 
 #### В архиве:
 - [Middle/Senior Frontend Developer React (удалёнка)](frontend.md)
