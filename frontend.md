@@ -1,6 +1,6 @@
 <img src="http://jobs.maxma.com/MX_Logo_2023_L_2.svg" width="200" />
 
-[MAXMA.com](https://maxma.com/) — это платформа для управления программами лояльности и маркетинговыми кампаниями в B2B-сегменте. Наши клиенты — розничные сети, e-commerce-площадки и бренды: CONSO, HASS, Rant, HappyBaby, PlayToday и еще 500+ довольных компаний ❤️.
+[MAXMA.com](https://maxma.com/) — это платформа для управления программами лояльности и маркетинговыми кампаниями в B2B-сегменте. Наши клиенты — розничные сети, e-commerce-площадки и бренды: CONSO, HASS, Rant, HappyBaby, PlayToday и еще 350+ довольных компаний ❤️.
 
 # Middle/Senior Frontend-разработчик React + TypeScript (удалёнка)
 
