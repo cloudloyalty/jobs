@@ -6,16 +6,16 @@
 [Наши актуальные вакансии на hh.ru](https://hh.ru/employer/3833409).
 
 #### Сейчас ищем:
-- [Менеджер по продажам в IT](sales_manager.md)
 - [Менеджер по развитию бизнеса / BDM](bdm.md)
-- [SDR / Менеджер лидогенерации](sdr.md)
-- [Руководитель отдела холодных продаж](head_of_cold_sales.md)
 
 #### В архиве:
 - [Middle/Senior Frontend Developer React (удалёнка)](frontend.md)
 - [Middle/Senior Backend Developer PHP (удалёнка)](backend.md)
 - [CMO / Директор по маркетингу (IT/SaaS для B2B)](cmo.md)
 - [Аккаунт-менеджер/ Customer success manager](acct_manager.md)
+- [Менеджер по продажам в IT](sales_manager.md)
+- [SDR / Менеджер лидогенерации](sdr.md)
+- [Руководитель отдела холодных продаж](head_of_cold_sales.md)
 
 #### Наши преимущества:
 - Официальное трудоустройство с белой зарплатой в аккредитованной IT-компании
