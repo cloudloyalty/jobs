@@ -7,6 +7,7 @@
 
 #### Сейчас ищем:
 - [Middle Продуктовый дизайнер](designer.md)
+- [Менеджер базы знаний/Knowledge manager](knowledge_manager.md)
 
 #### В архиве:
 - [Middle/Senior Frontend Developer React (удалёнка)](frontend.md)
